@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\copy\\Racing Car\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6B6824-46E8-4EA7-903C-BA0CD34C3F38}|Racing Car\\Racing Car.vcxproj|D:\\copy\\Racing Car\\Racing Car\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8A6B6824-46E8-4EA7-903C-BA0CD34C3F38}|Racing Car\\Racing Car.vcxproj|solutionrelative:Racing Car\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6B6824-46E8-4EA7-903C-BA0CD34C3F38}|Racing Car\\Racing Car.vcxproj|D:\\copy\\Racing Car\\Racing Car\\Body.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8A6B6824-46E8-4EA7-903C-BA0CD34C3F38}|Racing Car\\Racing Car.vcxproj|solutionrelative:Racing Car\\Body.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6B6824-46E8-4EA7-903C-BA0CD34C3F38}|Racing Car\\Racing Car.vcxproj|D:\\copy\\Racing Car\\Racing Car\\Car.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8A6B6824-46E8-4EA7-903C-BA0CD34C3F38}|Racing Car\\Racing Car.vcxproj|solutionrelative:Racing Car\\Car.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6B6824-46E8-4EA7-903C-BA0CD34C3F38}|Racing Car\\Racing Car.vcxproj|D:\\copy\\Racing Car\\Racing Car\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8A6B6824-46E8-4EA7-903C-BA0CD34C3F38}|Racing Car\\Racing Car.vcxproj|solutionrelative:Racing Car\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6B6824-46E8-4EA7-903C-BA0CD34C3F38}|Racing Car\\Racing Car.vcxproj|D:\\copy\\Racing Car\\Racing Car\\RoadLine.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8A6B6824-46E8-4EA7-903C-BA0CD34C3F38}|Racing Car\\Racing Car.vcxproj|solutionrelative:Racing Car\\RoadLine.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6B6824-46E8-4EA7-903C-BA0CD34C3F38}|Racing Car\\Racing Car.vcxproj|D:\\copy\\Racing Car\\Racing Car\\Queue.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8A6B6824-46E8-4EA7-903C-BA0CD34C3F38}|Racing Car\\Racing Car.vcxproj|solutionrelative:Racing Car\\Queue.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6B6824-46E8-4EA7-903C-BA0CD34C3F38}|Racing Car\\Racing Car.vcxproj|D:\\copy\\Racing Car\\Racing Car\\Queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8A6B6824-46E8-4EA7-903C-BA0CD34C3F38}|Racing Car\\Racing Car.vcxproj|solutionrelative:Racing Car\\Queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6B6824-46E8-4EA7-903C-BA0CD34C3F38}|Racing Car\\Racing Car.vcxproj|D:\\copy\\Racing Car\\Racing Car\\Coin.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8A6B6824-46E8-4EA7-903C-BA0CD34C3F38}|Racing Car\\Racing Car.vcxproj|solutionrelative:Racing Car\\Coin.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6B6824-46E8-4EA7-903C-BA0CD34C3F38}|Racing Car\\Racing Car.vcxproj|D:\\copy\\Racing Car\\Racing Car\\Car.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8A6B6824-46E8-4EA7-903C-BA0CD34C3F38}|Racing Car\\Racing Car.vcxproj|solutionrelative:Racing Car\\Car.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Body.hpp",
+              "DocumentMoniker": "D:\\copy\\Racing Car\\Racing Car\\Body.hpp",
+              "RelativeDocumentMoniker": "Racing Car\\Body.hpp",
+              "ToolTip": "D:\\copy\\Racing Car\\Racing Car\\Body.hpp",
+              "RelativeToolTip": "Racing Car\\Body.hpp",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAACgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-21T15:00:17.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Coin.hpp",
+              "DocumentMoniker": "D:\\copy\\Racing Car\\Racing Car\\Coin.hpp",
+              "RelativeDocumentMoniker": "Racing Car\\Coin.hpp",
+              "ToolTip": "D:\\copy\\Racing Car\\Racing Car\\Coin.hpp",
+              "RelativeToolTip": "Racing Car\\Coin.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-20T14:07:07.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Queue.cpp",
+              "DocumentMoniker": "D:\\copy\\Racing Car\\Racing Car\\Queue.cpp",
+              "RelativeDocumentMoniker": "Racing Car\\Queue.cpp",
+              "ToolTip": "D:\\copy\\Racing Car\\Racing Car\\Queue.cpp",
+              "RelativeToolTip": "Racing Car\\Queue.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-20T13:38:20.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Queue.hpp",
+              "DocumentMoniker": "D:\\copy\\Racing Car\\Racing Car\\Queue.hpp",
+              "RelativeDocumentMoniker": "Racing Car\\Queue.hpp",
+              "ToolTip": "D:\\copy\\Racing Car\\Racing Car\\Queue.hpp",
+              "RelativeToolTip": "Racing Car\\Queue.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-20T13:33:01.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cpp",
+              "DocumentMoniker": "D:\\copy\\Racing Car\\Racing Car\\Car.cpp",
+              "RelativeDocumentMoniker": "Racing Car\\Car.cpp",
+              "ToolTip": "D:\\copy\\Racing Car\\Racing Car\\Car.cpp",
+              "RelativeToolTip": "Racing Car\\Car.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-19T15:41:35.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RoadLine.hpp",
+              "DocumentMoniker": "D:\\copy\\Racing Car\\Racing Car\\RoadLine.hpp",
+              "RelativeDocumentMoniker": "Racing Car\\RoadLine.hpp",
+              "ToolTip": "D:\\copy\\Racing Car\\Racing Car\\RoadLine.hpp",
+              "RelativeToolTip": "Racing Car\\RoadLine.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-19T15:37:46.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Car.hpp",
+              "DocumentMoniker": "D:\\copy\\Racing Car\\Racing Car\\Car.hpp",
+              "RelativeDocumentMoniker": "Racing Car\\Car.hpp",
+              "ToolTip": "D:\\copy\\Racing Car\\Racing Car\\Car.hpp",
+              "RelativeToolTip": "Racing Car\\Car.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-19T15:34:23.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\copy\\Racing Car\\Racing Car\\main.cpp",
+              "RelativeDocumentMoniker": "Racing Car\\main.cpp",
+              "ToolTip": "D:\\copy\\Racing Car\\Racing Car\\main.cpp",
+              "RelativeToolTip": "Racing Car\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-18T13:23:32.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "test.cpp",
+              "DocumentMoniker": "D:\\copy\\Racing Car\\Racing Car\\test.cpp",
+              "RelativeDocumentMoniker": "Racing Car\\test.cpp",
+              "ToolTip": "D:\\copy\\Racing Car\\Racing Car\\test.cpp",
+              "RelativeToolTip": "Racing Car\\test.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-17T13:57:53.454Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

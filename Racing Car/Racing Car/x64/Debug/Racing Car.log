@@ -1,0 +1,12 @@
+﻿  Body.cpp
+D:\copy\Racing Car\Racing Car\Body.cpp(314,26): warning C4244: “参数”: 从“time_t”转换到“int”，可能丢失数据
+D:\copy\Racing Car\Racing Car\Body.cpp(389,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Car.cpp
+  Car.hpp
+  main.cpp
+  Queue.cpp
+  RoadLine.hpp
+  test.cpp
+  正在生成代码...
+x64\Debug\Car.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+  Racing Car.vcxproj -> D:\copy\Racing Car\x64\Debug\Racing Car.exe
